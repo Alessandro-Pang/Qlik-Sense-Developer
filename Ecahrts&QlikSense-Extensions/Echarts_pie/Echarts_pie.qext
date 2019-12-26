@@ -1,0 +1,12 @@
+{
+	"name": "Echarts_pie",
+	"description": "一个很简单的Ecahrts饼图，实现了一些Qlik交互的能力",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "pangChaoYue",
+	"keywords": "qlik-sense, visualization",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
