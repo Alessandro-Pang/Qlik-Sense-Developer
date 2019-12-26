@@ -1,9 +1,9 @@
 # Ecahrts-pie-chart-in-QlikSense-Extensons
-### 利用echarts库，在QlikSense中开发扩展控件
+* 利用echarts库，在QlikSense中开发扩展控件
 
-**该代码仅作为教程使用**
+*该代码仅作为教程使用*
 
-**代码中加入了大量注释，方便没接触过QlikSense开发者理解代码含义和开发流程**
+*代码中加入了大量注释，方便没接触过QlikSense开发者理解代码含义和开发流程*
 
 #### ***开发须知：***
 

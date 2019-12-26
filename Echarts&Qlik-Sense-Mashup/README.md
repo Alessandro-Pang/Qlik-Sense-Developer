@@ -1,11 +1,14 @@
 # Echarts-in-Qlik-Sense-Mashup
 
-### Qlik Sense Mashup 开发 Echarts图例简单案例 
+* Qlik Sense Mashup 开发 Echarts图例简单案例 
 
-  ##### Mashup是QlikSense 在Dev-hub中加入的扩展功能
-  ##### Masup一般用于开发大屏展示
-  ##### 相比较于常规开发图表，Mashup开发更加自由
-  ##### 开发者可以根据需要自己绘图
+* Mashup是QlikSense 在Dev-hub中加入的扩展功能
+
+* Masup一般用于开发大屏展示
+
+* 相比较于常规开发图表，Mashup开发更加自由
+
+* 开发者可以根据需要自己绘图
 
 #### *代码库使用须知：*
 ````
